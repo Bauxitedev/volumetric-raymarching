@@ -1,0 +1,16 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=2]
+
+[ext_resource path="res://raymarch.shader" type="Shader" id=1]
+
+[resource]
+
+render_priority = 0
+shader = ExtResource( 1 )
+shader_param/mouse_pos = Vector2( 0.2, 0.8 )
+shader_param/sphereRadius = 190.788
+shader_param/iteration_count = 1
+shader_param/raymarch_iterations = 400
+shader_param/step_size = 0.002
+shader_param/scatter_amount = 0.827
+_sections_unfolded = [ "shader_param" ]
+
