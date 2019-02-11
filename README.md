@@ -3,7 +3,7 @@ This project implements 2D GPU-accelerated volumetric raymarching in Godot 3.0. 
 
 ![](icon.png)
 
-[TODO video goes here]
+[Here's a video of it in action.](https://www.youtube.com/watch?v=xM1qQziigwk)
 
 # License
 MIT
